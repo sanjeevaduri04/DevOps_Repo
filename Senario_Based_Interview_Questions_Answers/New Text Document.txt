@@ -1,0 +1,6 @@
+Give me most asked scenario based DevOps (By including tools Git, Jenkins, terraform, Ansible, Docker, Kubernetes) and AWS (EC2,S3,IAM,RDS) to attented 5+ years interview.
+
+
+https://chatgpt.com/share/69a5c394-d508-8003-b22c-a5a3798f996e
+
+https://medium.com/%40shakamuri.n/aws-three-tier-architecture-with-ci-cd-2d5b603c2ad8
